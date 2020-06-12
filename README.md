@@ -5,5 +5,5 @@ This is a simple webapp using python Flask
     -> pip install flask
     -> Create the file app.py
     -> run python app.py
-
-** 2. How to Containerize above app: **
+    
+  ** How to Containerize above app: **
